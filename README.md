@@ -1,1 +1,1 @@
-# odin-css
+The odin project css project.
