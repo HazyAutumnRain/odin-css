@@ -189,3 +189,9 @@ li {
     font-weight: bolder;
     font-size: 24px;
 }
+
+footer {
+    background-color: #1F2937;
+    padding-top: 30px;
+    color: #F9FAF8;
+}
