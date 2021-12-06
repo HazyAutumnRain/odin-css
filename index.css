@@ -90,3 +90,102 @@ header div a {
 .hero-div button:active {
     transform: scale(1.05);
 }
+
+.mid-content h2 {
+    padding-top: 20px;
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.box-container {
+    width: 800px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 180px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: 4px solid #3882F6;
+    border-radius: 8px;
+    margin-top: 40px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-top: 15px;
+}
+
+.list-text {
+    color: #1F2937;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+    display: flex;
+    padding: 24px;
+}
+
+.quote-text {
+    text-align: left;
+    color: #1F2937;
+    font-size: 36px;
+    margin-left: 260px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.author-text {
+    text-align: right;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.action-call-section{
+    width: 1000px;
+    height: 100px;
+    background-color: #3882F6;
+    border-radius: 12px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.action-call-section button {
+    background-color: #3882F6;
+    border: none;
+    color: #F9FAF8;
+    border: 1px solid #F9FAF8;
+    border-radius: 4px;
+    margin-top: 30px;
+    margin-right: 200px;
+    width: 100px;
+    height: 45px;
+    font-size: 24px;
+}
+
+.action-call-section button:hover {
+    transform: scale(1.02)
+}
+
+.action-call-section button:active {
+    transform: scale(1.05);
+}
+
+.action-call-section ul {
+    padding-top: 10px;
+    margin-left: 100px;
+}
+
+.action-call-section li {
+    color: #E5E7EB;
+    text-align: left;
+}
+
+.action-call-higher {
+    font-weight: bolder;
+    font-size: 24px;
+}
